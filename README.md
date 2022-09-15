@@ -12,7 +12,7 @@ I'm Arthur Costa Dechechi, currently studying **Accounting Science at USP Ribeir
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcdechechi&theme=tokyonight)](https://github.com/arthurcdechechi/github-readme-stats)
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arthur-costa-dechechi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arthur-costa-dechechi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arthur-costa-dechechi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arthur-costa-dechechi/" height="30" width="40" /></a>
 </p>
 <!--
 **arthurcdechechi/arthurcdechechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
