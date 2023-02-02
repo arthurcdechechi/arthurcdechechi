@@ -9,7 +9,7 @@ Atualmente trabalho com foco em desenvolvimento web com os frameworks da **lingu
 ### Hi there! 👋
 I'm Arthur Costa Dechechi, currently studying **Accounting Science at USP Ribeirão Preto** and working at **LEPES/USP as Research Assistant II**. My present focus is **web development** using the **R frameworks Golem and Shinyapps**. I have also experience with **data ETL** at the data collection context for academics researchs.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcdechechi&theme=tokyonight)](https://github.com/arthurcdechechi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcdechechi&theme=tokyonight&count_private=true)](https://github.com/arthurcdechechi/github-readme-stats)
 
 <p align="left">
 <a href="https://linkedin.com/in/arthur-costa-dechechi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arthur-costa-dechechi/" height="30" width="40" /></a>
