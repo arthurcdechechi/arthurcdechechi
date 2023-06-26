@@ -3,11 +3,11 @@
 </div>
 
 ### Olá! 👋
-Me chamo Arthur Costa Dechechi, sou aluno de graduação em **Ciências Contábeis** da **USP de Ribeirão Preto** e **Assistente de Pesquisa II** no **LEPES/USP**.
+Me chamo Arthur Costa Dechechi, sou aluno de graduação em **Ciências Contábeis** da **USP de Ribeirão Preto** e **Assistente de Pesquisa** no **LEPES/USP**.
 Atualmente trabalho com foco em desenvolvimento web com os frameworks da **linguagem R**, **Golem e Shinyapps**. Tenho também experiência em **ETL** de dados no contexto de coletas de dados em campo para pesquisas acadêmicas.
 
 ### Hi there! 👋
-I'm Arthur Costa Dechechi, currently studying **Accounting Science at USP Ribeirão Preto** and working at **LEPES/USP as Research Assistant II**. My present focus is **web development** using the **R frameworks Golem and Shinyapps**. I have also experience with **data ETL** at the data collection context for academics researchs.
+I'm Arthur Costa Dechechi, currently studying **Accounting Science at USP Ribeirão Preto** and working at **LEPES/USP as Research Assistant**. My present focus is **web development** using the **R frameworks Golem and Shinyapps**. I have also experience with **data ETL** at the data collection context for academics researchs.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcdechechi&theme=tokyonight&count_private=true)](https://github.com/arthurcdechechi/github-readme-stats)
 
